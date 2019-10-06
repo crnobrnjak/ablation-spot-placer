@@ -29,4 +29,4 @@ reportlab
 
 ## License
 
-This project is licensed under the GPL 3.0 License - see the [gpl-3.0.md](gpl-3.0.md) file for details
+This project is licensed under the GPL 3.0 License - see the [LICENSE.md](LICENSE.md) file for details
